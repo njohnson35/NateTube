@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/NateTube/static/css/main.8d3bb1a0.css",
+    "main.js": "/NateTube/static/js/main.729a7728.js",
+    "index.html": "/NateTube/index.html",
+    "main.8d3bb1a0.css.map": "/NateTube/static/css/main.8d3bb1a0.css.map",
+    "main.729a7728.js.map": "/NateTube/static/js/main.729a7728.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8d3bb1a0.css",
+    "static/js/main.729a7728.js"
+  ]
+}
